@@ -1,0 +1,1 @@
+# Wildfire-Prediction-burn-scars-segmentation-system
