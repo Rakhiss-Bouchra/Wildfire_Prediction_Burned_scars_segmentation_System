@@ -5,7 +5,8 @@ This project presents a system for the prediction and segmentation of burn scars
 ## Datasets
 
 In this project, we utilized two different datasets for prediction and burn scar segmentation.
-- For prediction, you can access the dataset through the following link: https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset
+- For prediction, you can access the dataset through the following link: https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset.
+
 
 The original wildfire dataset used for prediction is sourced from the Government of Canada's Open Data Portal. For more details on the data collection process, you can find the notebook in this repository: https://github.com/Rakhiss-Bouchra/Wildfire_Data_Analysis
 
